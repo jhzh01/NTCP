@@ -1,4 +1,6 @@
-NTCP
+南通长牌游戏
 ====
 
-It is a kind of CARD GAME in China, From NanTong.
+这是我家乡的一种传统纸牌游戏，总共有120张牌。具体还是看代码吧，用Cocos2d-x做的。
+
+新手勿喷……
